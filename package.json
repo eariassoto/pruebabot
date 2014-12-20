@@ -1,0 +1,7 @@
+{
+  "name": "pruebabot",
+  "version": "0.0.1",
+  "dependencies": {
+    "twit": "1.1.14"
+  }
+}
