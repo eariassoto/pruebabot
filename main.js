@@ -8,4 +8,4 @@ var todobot = new TODOBot(config);
 
 //todobot.tweet("hola");
 //todobot.message("hola mundo2!", 201962090);
-todobot.onFollow();
+//todobot.onFollow();
